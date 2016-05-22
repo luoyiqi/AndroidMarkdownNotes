@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QeeNote</string>
+    <string name="action_add">Создать</string>
+    <string name="action_edit">Изменить</string>
+    <string name="action_remove">Удалить</string>
+    <string name="action_remove_all">Удалить всё</string>
+    <string name="action_share">Поделиться</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_sort">Сортировать</string>
+    <string name="action_sort_alphabet">По алфавиту</string>
+    <string name="action_sort_date">По дате</string>
+    <string name="action_backup">Резервная копия</string>
+    <string name="action_restore">Восстановление</string>
+
+    <string name="empty_list">У Вас нет Заметок</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="all_deleted">Все заметки удалены</string>
+    <string name="title_activity_editor">Редактирование</string>
+    <string name="new_note">Новая заметка</string>
+    <string name="note_updated">Изменено</string>
+    <string name="note_deleted">Удалено</string>
+    <string name="note">Заметка</string>
+    <string name="enter_note_here">Составьте заметку</string>
+    <string name="title_activity_view">Заметка</string>
+    <string name="title_activity_service">Сервис</string>
+
+    <string name="context_add">Создать</string>
+    <string name="context_view">Просмотреть</string>
+    <string name="context_edit">Изменить</string>
+    <string name="context_remove">Удалить</string>
+    <string name="deleted">Удалено</string>
+    <string name="action_undo">Отмена</string>
+    <string name="note_restored">Заметка восстановлена</string>
+
+</resources>

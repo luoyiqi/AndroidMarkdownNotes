@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">QeeNote</string>
+    <string name="action_add">Create</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_remove">Remove</string>
+    <string name="action_remove_all">Remove All</string>
+    <string name="action_share">Share</string>
+    <string name="action_save">Save</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_sort_alphabet">Alphabet</string>
+    <string name="action_sort_date">Date</string>
+    <string name="action_backup">Backup</string>
+    <string name="action_restore">Restore</string>
+
+    <string name="empty_list">You don\'t have Notes</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="all_deleted">All notes deleted</string>
+    <string name="title_activity_editor">Edit Note</string>
+    <string name="new_note">New note</string>
+    <string name="note_updated">Note updated</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="deleted">Deleted</string>
+    <string name="note">Note</string>
+    <string name="enter_note_here">Enter note</string>
+    <string name="title_activity_view">Note</string>
+    <string name="title_activity_service">Service</string>
+
+    <string name="context_add">Add</string>
+    <string name="context_view">View</string>
+    <string name="context_edit">Edit</string>
+    <string name="context_remove">Remove</string>
+    <string name="action_undo">Undo</string>
+    <string name="note_restored">Note restored</string>
+</resources>
